@@ -1,2 +1,2 @@
 # HPO-UMLS-Integration
-Repository for HPO UMLS integration QA code and tracking issues
+Repository for tracking issues in HPO-UMLS-integration 
